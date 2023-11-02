@@ -1,0 +1,8 @@
+yaha part 2 DOM m  ... webpage bna hua h... wo compete padhna.. fir folder open krna...
+1) DOM TRAVERSE
+then...
+2)Click Event
+then..
+3) Demo Project
+then..
+4) event bubbling

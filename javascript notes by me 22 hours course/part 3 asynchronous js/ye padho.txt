@@ -1,0 +1,7 @@
+ye sequence rakhna h folder 3 m
+1. setTimeInterval
+2. Callback - demo
+3. promise callback hell
+4. xhr HTTP requeset
+5. ES6 modules - import export
+6. funny sa project
