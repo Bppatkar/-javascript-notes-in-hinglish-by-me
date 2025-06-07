@@ -9,13 +9,3 @@
 8.Teaching Materials
 9. Sitepoint
 10. Jschallenger
-
-
-
---> 50projects50days-master internet download  (54 js project)
---> master html to react  
-                                       (html css 25 project)
-                                        (150 js project)
-                                         ( 29 react project)
-
---> internet-downloaded project   (61 js project)
