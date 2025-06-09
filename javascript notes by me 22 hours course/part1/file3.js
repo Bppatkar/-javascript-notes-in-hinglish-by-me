@@ -37,7 +37,7 @@
 // var firstName = ."Bhanu";
 // ab dekho firstname h na upar to js check krega ki kahin wo kisi function m to nahi h.. agr nahi h to mtlb wo global scope m hoga  mtlb global scope ko belong krta h
 
-// run chordo varible create hone s phle js ko pta h ki global scope m ek varible h pda hua h
+// run chordo varible create hone s phle js ko pta h ki global scope m ek varible h pda hua h theek h
 
 // ab dekho 2 phase h  ... 1st compilation phase jisme early eroor check or D.A.S.P  h
 // 2nd phase code execution phase h isme
